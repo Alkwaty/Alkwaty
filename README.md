@@ -6,11 +6,11 @@
   </a>
 </h1>
 <p align="center">
-  <img src="image/code-svgrepo-com (1).svg" width="300" />
+  <img src="image/code-svgrepo-com (1).svg" width="100" />
 
-  <img src="image/Saqcode.svg" width="500" />
+  <img src="image/Saqcode.svg" width="400" />
 
-  <img src="image/code-svgrepo-com (1).svg" width="300" />
+  <img src="image/code-svgrepo-com (1).svg" width="100" />
 </p>
 <p align="center">
   Hi, I'm Shamsan Al-kwaty, Research Assistant & Computer Engineer & Software Developer from Turkey
