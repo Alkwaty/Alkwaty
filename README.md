@@ -10,7 +10,7 @@
 
   <img src="image/Saqcode.svg" width="500" />
 
-  <img src="imagecode-svgrepo-com (1).svg" width="300" />
+  <img src="image/code-svgrepo-com (1).svg" width="300" />
 </p>
 <p align="center">
   Hi, I'm Shamsan Al-kwaty, Research Assistant & Computer Engineer & Software Developer from Turkey
