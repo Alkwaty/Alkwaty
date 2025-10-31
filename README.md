@@ -6,7 +6,7 @@
   </a>
 </h1>
 <p align="center">
-<img src="image/SaqCode.svg" width="300" />
+<img src="image/Saqcode.svg" width="300" />
 
 </p>
 <p align="center">
