@@ -1,17 +1,18 @@
 
 
 <h1 align="center">
- <pre>
-   
-</pre>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=3000&repeat=false&width=435&lines=I'm+" alt="Typing SVG" /></a>
-  
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=932&color=F74A55&background=FF73E300&center=true&width=435&lines=SaqCode;Shamsan+Al-kwaty" alt="Typing SVG" /></a>
+   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=932&color=F74A55&background=FF73E300&center=true&width=435&lines=You're+welcome;This+is+my+world" alt="Typing SVG" /></a>
 </h1>
-<p align="center">
+ <p align="center">
   <img src="image/Saqcode.svg" width="400" />
   
+ <pre align="center">
+   <img src="image/Artboard 1 (1).svg" width="600"/>
+</pre>
+
+
+
+
 
 </p>
 <p align="center">
