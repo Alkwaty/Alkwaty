@@ -1,16 +1,18 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Shamsan+Al-kwaty;Nice+to+meet+you!&center=true&size=30">
-  </a>
+ <pre>
+   
+</pre>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=3000&repeat=false&width=435&lines=I'm+" alt="Typing SVG" /></a>
+  
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=932&color=F74A55&background=FF73E300&center=true&width=435&lines=SaqCode;Shamsan+Al-kwaty" alt="Typing SVG" /></a>
 </h1>
 <p align="center">
-  <img src="image/code-svgrepo-com (1).svg" width="100" />
-
   <img src="image/Saqcode.svg" width="400" />
+  
 
-  <img src="image/code-svgrepo-com (1).svg" width="100" />
 </p>
 <p align="center">
   Hi, I'm Shamsan Al-kwaty, Research Assistant & Computer Engineer & Software Developer from Turkey
